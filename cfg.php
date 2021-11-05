@@ -1,0 +1,5 @@
+<?php
+
+$link = "https://digitask.ru/notimer_fp/faucet.php?address=DLZsDSUA7wwnpTXZWiavzeVZ6Qv21TX48B&capcode=a12b582547ea3299209b48d436d269d1%7C1c89a5bbb04e61da9eac58134f89ae9d%7Chttp%3A%2F%2Fback20.keycaptcha.com%2Fswfs%2Fckc%2Fdbecd013ffbc94c11c78ebf54757d83b-%7C61857a8ca4a1d-4.0.0.001%7C1&wallet=&currency=DOGE&key=865f33f3310abf999a9854f87effddb1" ;
+$user = "Mozilla/5.0 (Linux; Android 8.1.0; CPH1803) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.74 Mobile Safari/537.36";
+$cookie = "antibot_referer=https%3A%2F%2Fdigitask.ru%2Fnotimer_fp%2Ffaucet.php%3Faddress%3DDLZsDSUA7wwnpTXZWiavzeVZ6Qv21TX48B%26capcode%3D1f46b0e0e17429043c67485786905f3c%257C0f0a7a40a9dd3e93e52858e10c2b4e84%257Chttp%253A%252F%252Fback20.keycaptcha.com%252Fswfs%252Fckc%252Fdadddd9a9df87ee099bdc5744e5ba07d-%257C617d34d51e23a-4.0.0.001%257C1%26wallet%3D%26currency%3DDOGE%26key%3D865f33f3310abf999a9854f87effddb1";
